@@ -6,9 +6,7 @@ KXAchat is a real-time chat application built with **Next.js** for the frontend 
 
 - **Real-Time Messaging**: Leverage WebSocket for real-time chat updates between users.
 - **User Authentication**: Secure user authentication via **Clerk**.
-- **Message History**: Chat history saved on the backend for future retrieval.
 - **Cross-Platform**: Supports access via web browsers for easy chat access across platforms.
-- **Profile Management**: Users can set and update their profiles.
 
 ## Technologies Used
 
