@@ -18,7 +18,7 @@ export default function ChatPage() {
   }, [isSignedIn]);
 
   useEffect(() => {
-    const ws = new WebSocket("ws://localhost:3002");
+    const ws = new WebSocket("https://kxasever.onrender.com");
     setSocket(ws);
 
     ws.onmessage = (event) => {
